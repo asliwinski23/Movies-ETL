@@ -132,3 +132,4 @@ dmypy.json
 /resources/ratings.csv
 /resources/ratings_small.csv
 /resources/wikipedia-movies.json
+/config.py
